@@ -1,7 +1,6 @@
 <?php
 
 require_once 'helpers.php';
-require_once 'test.php';
 require_once 'class-shbb-import-csv.php';
 
 $shbb = new Shbb_import_csv(array(
